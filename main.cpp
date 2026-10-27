@@ -14,6 +14,5 @@ int main()
     total = number1 + number2;
 
     cout << total;
-    cout << "12";
     return 0;
 }
